@@ -1,0 +1,44 @@
+,,,B/S,Contract,Product,Product Description,avgPrice,filledQty,Fill Time,,Status,_priceFormat,_priceFormatType,_tickSize,,,Timestamp,Date,Quantity,Text,Type,Limit Price,Stop Price,decimalLimit,decimalStop,Filled Qty,Avg Fill Price,decimalFillAvg
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17901.25,1,04/17/2024 15:13:03,,Filled,-2,0,0.25,,,04/17/2024 15:13:03,4/17/24,1,Tradingview,Market,,,,,1,17901.25,17901.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 15:14:42,4/17/24,1,Tradingview,Stop,,17890.5,,17890.5,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 15:14:55,4/17/24,1,Tradingview,Limit,17922.5,,17922.5,,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17908.25,1,04/17/2024 15:20:17,,Filled,-2,0,0.25,,,04/17/2024 15:20:17,4/17/24,1,Exit,Market,,,,,1,17908.25,17908.25
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17884.5,1,04/17/2024 19:28:13,,Filled,-2,0,0.25,,,04/17/2024 19:28:13,4/17/24,1,Tradingview,Market,,,,,1,17884.5,17884.5
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17865.25,1,04/17/2024 19:32:59,,Filled,-2,0,0.25,,,04/17/2024 19:28:23,4/17/24,1,Tradingview,Stop,,17865.25,,17865.25,1,17865.25,17865.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 19:28:34,4/17/24,1,Tradingview,Limit,17988.25,,17988.25,,,,
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17852.75,1,04/17/2024 19:36:30,,Filled,-2,0,0.25,,,04/17/2024 19:36:30,4/17/24,1,Tradingview,Market,,,,,1,17852.75,17852.75
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17836.25,1,04/17/2024 19:41:22,,Filled,-2,0,0.25,,,04/17/2024 19:36:35,4/17/24,1,Tradingview,Stop,,17838.25,,17838.25,1,17836.25,17836.25
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17831,1,04/17/2024 19:43:34,,Filled,-2,0,0.25,,,04/17/2024 19:43:34,4/17/24,1,Tradingview,Market,,,,,1,17831,17831
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17818.5,1,04/17/2024 19:52:31,,Filled,-2,0,0.25,,,04/17/2024 19:43:41,4/17/24,1,Tradingview,Stop,,17818.5,,17818.5,1,17818.5,17818.5
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17825.25,1,04/17/2024 19:54:13,,Filled,-2,0,0.25,,,04/17/2024 19:54:13,4/17/24,1,Tradingview,Market,,,,,1,17825.25,17825.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:21:29,4/17/24,2,Tradingview,Stop,,17817.25,,17817.25,,,
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17832,1,04/17/2024 20:05:00,,Filled,-2,0,0.25,,,04/17/2024 20:04:57,4/17/24,1,Tradingview,Limit,17832,,17832,,1,17832,17832
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17824.75,2,04/17/2024 20:21:39,,Filled,-2,0,0.25,,,04/17/2024 20:21:39,4/17/24,2,Exit,Market,,,,,2,17824.75,17824.75
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17781.75,2,04/17/2024 20:25:05,,Filled,-2,0,0.25,,,04/17/2024 20:25:05,4/17/24,2,Tradingview,Market,,,,,2,17781.75,17781.75
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:25:10,4/17/24,2,Tradingview,Stop,,17764.25,,17764.25,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17793.75,2,04/17/2024 20:27:13,,Filled,-2,0,0.25,,,04/17/2024 20:27:13,4/17/24,2,Exit,Market,,,,,2,17793.75,17793.75
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:27:21,4/17/24,2,Tradingview,Limit,17785.75,,17785.75,,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:27:27,4/17/24,2,Tradingview,Stop,,17764.5,,17764.5,,,
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17805.25,2,04/17/2024 20:28:16,,Filled,-2,0,0.25,,,04/17/2024 20:28:16,4/17/24,2,Tradingview,Market,,,,,2,17805.25,17805.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17796.33333,3,04/17/2024 20:43:23,,Filled,-2,0,0.25,,,04/17/2024 20:39:53,4/17/24,3,Tradingview,Stop,,17796.5,,17796.5,3,17796.33,17796.33333
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17817,1,04/17/2024 20:37:03,,Filled,-2,0,0.25,,,04/17/2024 20:37:03,4/17/24,1,Tradingview,Market,,,,,1,17817,17817
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:40:05,4/17/24,3,Tradingview,Limit,17904,,17904,,,,
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17801.25,3,04/17/2024 20:43:35,,Filled,-2,0,0.25,,,04/17/2024 20:43:35,4/17/24,3,Tradingview,Market,,,,,3,17801.25,17801.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:43:40,4/17/24,3,Tradingview,Stop,,17773.5,,17773.5,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17801.5,3,04/17/2024 20:44:22,,Filled,-2,0,0.25,,,04/17/2024 20:44:22,4/17/24,3,Exit,Market,,,,,3,17801.5,17801.5
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17792,3,04/17/2024 20:44:39,,Filled,-2,0,0.25,,,04/17/2024 20:44:28,4/17/24,3,Tradingview,Limit,17792,,17792,,3,17792,17792
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17774.25,3,04/17/2024 20:51:52,,Filled,-2,0,0.25,,,04/17/2024 20:50:36,4/17/24,3,Tradingview,Stop,,17774.5,,17774.5,3,17774.25,17774.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:47:41,4/17/24,3,Tradingview,Limit,17861,,17861,,,,
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17786.75,1,04/17/2024 20:52:08,,Filled,-2,0,0.25,,,04/17/2024 20:52:08,4/17/24,1,Tradingview,Market,,,,,1,17786.75,17786.75
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:52:14,4/17/24,1,Tradingview,Stop,,17763.75,,17763.75,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17785,1,04/17/2024 20:52:45,,Filled,-2,0,0.25,,,04/17/2024 20:52:45,4/17/24,1,Exit,Market,,,,,1,17785,17785
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17788.25,2,04/17/2024 20:54:36,,Filled,-2,0,0.25,,,04/17/2024 20:54:36,4/17/24,2,Tradingview,Market,,,,,2,17788.25,17788.25
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:59:24,4/17/24,3,Tradingview,Stop,,17779.5,,17779.5,,,
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17794,1,04/17/2024 20:57:17,,Filled,-2,0,0.25,,,04/17/2024 20:57:17,4/17/24,1,Tradingview,Market,,,,,1,17794,17794
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,,,,,Canceled,-2,0,0.25,,,04/17/2024 20:58:09,4/17/24,3,Tradingview,Limit,17858.5,,17858.5,,,,
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17783.75,3,04/17/2024 20:59:39,,Filled,-2,0,0.25,,,04/17/2024 20:59:39,4/17/24,3,Exit,Market,,,,,3,17783.75,17783.75
+,,,Buy,NQM4,NQ,E-Mini NASDAQ 100,17756.75,3,04/17/2024 21:01:08,,Filled,-2,0,0.25,,,04/17/2024 21:01:08,4/17/24,3,Tradingview,Market,,,,,3,17756.75,17756.75
+,,,Sell,NQM4,NQ,E-Mini NASDAQ 100,17745.75,3,04/17/2024 21:02:04,,Filled,-2,0,0.25,,,04/17/2024 21:01:15,4/17/24,3,Tradingview,Stop,,17745.75,,17745.75,3,17745.75,17745.75
+,,,Buy,ESM4,ES,E-Mini S&P 500,5073,1,04/17/2024 21:29:46,,Filled,-2,0,0.25,,,04/17/2024 21:29:46,4/17/24,1,Tradingview,Market,,,,,1,5073,5073
+,,,Sell,ESM4,ES,E-Mini S&P 500,,,,,Canceled,-2,0,0.25,,,04/17/2024 21:29:53,4/17/24,1,Tradingview,Stop,,5067.25,,5067.25,,,
+,,,Sell,ESM4,ES,E-Mini S&P 500,5072.25,1,04/17/2024 21:30:09,,Filled,-2,0,0.25,,,04/17/2024 21:30:09,4/17/24,1,Exit,Market,,,,,1,5072.25,5072.25
